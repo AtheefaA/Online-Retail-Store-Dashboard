@@ -79,13 +79,8 @@ Online-Retail-Store-Dashboard/
 
 ## 📷 Dashboard Preview
 
-![Online Retail Store Dashboard](Online-Retail-Store-Dashboard/Screenshot%202025-12-27%20140132.png)
+![Online Retail Store Dashboard](Screenshot%202025-12-27%20140132.png)
 
-> If your `README.md` is inside the `Online-Retail-Store-Dashboard` folder, use:
->
-> ```markdown
-> ![Online Retail Store Dashboard](Screenshot%202025-12-27%20140132.png)
-> ```
 
 ---
 
